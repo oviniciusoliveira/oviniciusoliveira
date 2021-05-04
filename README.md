@@ -2,7 +2,7 @@
 
 - 👨‍💻 Adoro construir e inventar coisas para WEB.
 - 📖 Estou no penúltimo ano da faculdade de Ciência da Computação na UFABC
-- 💼 Atuo como Freelancer construindo sites -> Confira mais em https://binae.netlify.app
+- 💼 Atuo como Freelancer construindo sites e aplicações web -> Conheça mais sobre em https://binae.netlify.app
 - 🌱 Busco aprender algo novo a cada dia. Principalmente relacionado ao ecossistema JavaScript.
 
 ### Entre em contato:
