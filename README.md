@@ -1,9 +1,9 @@
 ## Olá! Seja Bem-Vindo(a) ao meu Perfil! 👋
 
-- 👨‍💻 Adoro construir e inventar coisas para WEB.
+- 👨‍💻 Adoro construir e inventar coisas para WEB
 - 📖 Estou no segundo período da faculdade de Ciência da Computação na UFABC
 - 💼 Atuo como Freelancer construindo sites e aplicações web -> Conheça mais sobre em: https://binae.com.br
-- 🌱 Busco aprender algo novo a cada dia. Principalmente relacionado ao ecossistema JavaScript.
+- 🌱 Busco aprender algo novo a cada dia. Principalmente relacionado ao ecossistema JavaScript
 
 ### Entre em contato:
 
