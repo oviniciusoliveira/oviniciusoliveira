@@ -13,7 +13,7 @@
 
 ---
 
-### Principais Linguages e Ferramentas que utilizo:
+### Principais Linguagens e Ferramentas que utilizo:
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
