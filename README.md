@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./.github/card.png"/>
+</p>
+
 ## Olá! Seja Bem-Vindo(a) ao meu Perfil! 👋
 
 - 👨‍💻 Adoro construir e inventar coisas para WEB
