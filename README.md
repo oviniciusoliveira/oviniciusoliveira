@@ -7,6 +7,7 @@
 - 👨‍💻 Adoro construir e inventar coisas para WEB
 - 📖 Estou no segundo ano da faculdade de Ciência da Computação na UFABC
 - 💼 Atuo como Freelancer construindo sites e aplicações web -> Conheça mais sobre em: <a href="https://binae.com.br">BINAE</a>
+- 🚀 Estagiário como Desenvolvedor FrontEnd na Wiretrack
 - 🌱 Busco aprender algo novo a cada dia. Principalmente relacionado ao ecossistema JavaScript
 
 ### Entre em contato:
