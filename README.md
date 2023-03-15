@@ -9,7 +9,7 @@
 - 📖 I am a third year student of bachelor in computer science at University Federal of ABC
 - 🌱 Trying to learn something new every day
 
-### Contact me in LinkedIn:
+### Contact me on LinkedIn:
 
 <a href="https://www.linkedin.com/in/oviniciusoliveira/">
   <img src="https://img.shields.io/badge/-@oviniciusoliveira-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/oviniciusoliveira/" alt="LinkedIn Badge">
