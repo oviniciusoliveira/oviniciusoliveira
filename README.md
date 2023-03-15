@@ -7,7 +7,7 @@
 - 👨‍💻 I build WEB applications
 - 🚀 Software Engineer in Bits Crypto
 - 📖 I am a third year student of bachelor in computer science at University Federal of ABC
-- 🌱 Trying to learn something new every day.
+- 🌱 Trying to learn something new every day
 
 ### Contact me in LinkedIn:
 
