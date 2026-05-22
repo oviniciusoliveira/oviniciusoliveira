@@ -5,7 +5,7 @@
 ## Hi! Welcome to my profile! 👋
 
 - 👨‍💻 I build WEB applications
-- 🚀 Software Engineer in Bits Crypto
+- 🚀 Software Engineer in Crafthouse
 - 📖 I am a third year student of bachelor in computer science at University Federal of ABC
 - 🌱 Trying to learn something new every day
 
